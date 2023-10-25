@@ -1,0 +1,6 @@
+/project/
+/target/
+/.idea/
+.idea/vcs.xml
+target/global-logging/sbt-global-log12420513976745124293.log
+target/scala-2.12/update/update_cache_2.12/inputs
